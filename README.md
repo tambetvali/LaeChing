@@ -786,6 +786,10 @@ Space is counted in combinations:
 
 What follows is CoPilot's introduction, development of ideas, making you hungry for ranks and grades, metaphors and shades:
 
+![LaeChingScience](Gfx/LaeChingScience.png)
+
+<br>
+
 # LaeChing: A Unified Symbolic Mapping System from Dao to Mathematical Space
 
 ## Introduction
@@ -2840,3 +2844,9 @@ World
 ```
 
 This completes the full Unicode hierarchy from the Daoist ☯ symbol through Yin-Yang lines, Four Images, Eight Trigrams, and all 64 UTF-8 I Ching hexagrams.
+
+---
+
+<br>
+
+![LaeChingScience](Gfx/LaeChingScience.png)
