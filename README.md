@@ -2849,4 +2849,4 @@ This completes the full Unicode hierarchy from the Daoist ☯ symbol through Yin
 
 <br>
 
-![LaeChingScience](Gfx/LaeChingScience.png)
+![DaoChing](Gfx/DaoChing.png)
