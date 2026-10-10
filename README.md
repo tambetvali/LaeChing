@@ -1,3 +1,783 @@
+# Foundational Symmetries of LaeChing
+
+## Introduction
+
+Before introducing Daoist symbols, trigrams, hexagrams, or the Laegna alphabet, it is useful to understand the underlying symmetry that motivates the entire system.
+
+The central idea is simple:
+
+> Every measurement exists simultaneously in a value dimension and a rank dimension.
+
+Ordinary mathematics usually focuses on values:
+
+```text
+1
+2
+3
+4
+...
+```
+
+However, reality also contains ranks:
+
+```text
+point
+line
+surface
+volume
+higher-dimensional structure
+...
+```
+
+A value tells us:
+
+```text
+how much
+```
+
+while a rank tells us:
+
+```text
+of what type
+```
+
+LaeChing treats these as inseparable.
+
+---
+
+# The Two Directions of Number
+
+A natural number grows away from its center:
+
+```text
+1
+2
+3
+4
+...
+∞
+```
+
+This can be viewed as:
+
+```text
+addition
+```
+
+creating external space.
+
+The direction is:
+
+```text
+1 → ∞
+```
+
+This produces countable magnitude.
+
+---
+
+Real numbers introduce the opposite direction.
+
+Starting from unity:
+
+```text
+1
+1/2
+1/4
+1/8
+...
+0
+```
+
+This behaves as:
+
+```text
+division
+```
+
+creating internal space.
+
+The direction becomes:
+
+```text
+1 → 0
+```
+
+This produces precision.
+
+---
+
+Together they form a single symmetry:
+
+```text
+0 ← 1 → ∞
+```
+
+or:
+
+```text
+internal collapse
+center
+external expansion
+```
+
+This relationship appears repeatedly throughout mathematics and physics.
+
+---
+
+# Symmetry of Zero and Infinity
+
+A recurring assumption of the system is:
+
+```text
+zero
+```
+
+and
+
+```text
+infinity
+```
+
+are not merely opposites.
+
+They are complementary limits of observation.
+
+For example:
+
+```text
+1
+```
+
+can be approached through:
+
+```text
+0.9
+0.99
+0.999
+...
+```
+
+or through:
+
+```text
+2
+10
+100
+1000
+...
+```
+
+depending upon coordinate choice.
+
+Thus:
+
+```text
+0 ← 1 → ∞
+```
+
+becomes the primitive axis of the system.
+
+---
+
+# 0% → 100% → 200%
+
+One way to visualize this is with percentages.
+
+Instead of:
+
+```text
+0
+1
+2
+```
+
+the space becomes:
+
+```text
+0%
+100%
+200%
+```
+
+where:
+
+```text
+0% → 100%
+```
+
+represents formation.
+
+and
+
+```text
+100% → 200%
+```
+
+represents contextual expansion.
+
+---
+
+Examples:
+
+```text
+seed
+→ tree
+```
+
+is:
+
+```text
+0% → 100%
+```
+
+while:
+
+```text
+tree
+→ forest
+```
+
+is:
+
+```text
+100% → 200%
+```
+
+The object becomes complete at one scale and simultaneously becomes a component at a larger scale.
+
+---
+
+# Rank and Value
+
+Laegna numbers attempt to represent two independent properties.
+
+First:
+
+```text
+value
+```
+
+Second:
+
+```text
+rank
+```
+
+Equivalent names include:
+
+```text
+frequency
+and
+octave
+```
+
+or:
+
+```text
+position
+and
+scale
+```
+
+or:
+
+```text
+local
+and
+global
+```
+
+The resulting number is therefore not merely:
+
+```text
+a value
+```
+
+but:
+
+```text
+a coordinate.
+```
+
+---
+
+# Why Geometry Appears
+
+Suppose we begin with a line.
+
+```text
+1D
+```
+
+Every value occupies one coordinate.
+
+Now square the line.
+
+```text
+1D × 1D = 2D
+```
+
+A new type of structure appears.
+
+The number of relations grows.
+
+This growth is not visible in the original one-dimensional representation.
+
+The new dimension contains:
+
+```text
+order
+```
+
+rather than merely:
+
+```text
+quantity.
+```
+
+---
+
+The same transition repeats:
+
+```text
+point
+→ line
+→ square
+→ cube
+→ hypercube
+→ ...
+```
+
+Each higher dimension generates new interactions which could not exist in the lower dimension.
+
+---
+
+# Continuous Rank
+
+A central observation is:
+
+```text
+1D → 2D
+```
+
+introduces a new rank.
+
+Likewise:
+
+```text
+2D → 3D
+```
+
+introduces another rank.
+
+The process continues indefinitely.
+
+Each step produces new structures such as:
+
+```text
+area
+volume
+curvature
+topology
+network
+```
+
+which are invisible inside lower ranks.
+
+---
+
+# The Meaning of Octaves
+
+LaeChing uses the term:
+
+```text
+octave
+```
+
+in a generalized sense.
+
+An octave means:
+
+```text
+same pattern
+larger context
+```
+
+Examples:
+
+```text
+bit
+byte
+word
+register
+system
+```
+
+or:
+
+```text
+person
+family
+community
+culture
+```
+
+or:
+
+```text
+line
+surface
+volume
+space
+```
+
+The local relationships remain recognizable while the scale changes.
+
+---
+
+# Number Bases as Different Views
+
+The system associates different numerical bases with different observational roles.
+
+---
+
+## Base-2
+
+Base-2 naturally measures distinctions.
+
+```text
+0
+1
+```
+
+or:
+
+```text
+yin
+yang
+```
+
+It is useful for:
+
+```text
+ranks
+states
+transitions
+```
+
+---
+
+## Base-4
+
+Base-4 measures four stable relations.
+
+```text
+I
+O
+A
+E
+```
+
+or:
+
+```text
+00
+01
+10
+11
+```
+
+It becomes useful when describing:
+
+```text
+internal
+external
+lower
+upper
+```
+
+relationships simultaneously.
+
+---
+
+## Base-8
+
+Base-8 naturally aligns with:
+
+```text
+three bits
+```
+
+and therefore with:
+
+```text
+trigrams
+```
+
+which are themselves three-line structures.
+
+---
+
+## Base-16
+
+Base-16 exposes larger combinatorial spaces.
+
+```text
+16 = 4²
+```
+
+The system therefore often treats it as a visible expansion of quaternary structure.
+
+---
+
+## Base-3
+
+Base-3 plays a special role.
+
+Rather than representing direct states, it may represent:
+
+```text
+relations between states
+```
+
+or:
+
+```text
+movement between octaves.
+```
+
+---
+
+# Laegna Numbers as Two-Dimensional Coordinates
+
+A conventional number is often interpreted as a point.
+
+Laegna instead interprets a number as:
+
+```text
+(rank, value)
+```
+
+or:
+
+```text
+(octave, frequency)
+```
+
+Thus:
+
+```text
+2
+```
+
+and
+
+```text
+2 at another octave
+```
+
+are distinct positions.
+
+The numerical value remains the same.
+
+The rank changes.
+
+---
+
+# Scientific Parallels
+
+The same distinction between value and rank appears in many sciences.
+
+---
+
+## Hilbert Spaces
+
+A Hilbert space permits infinitely precise coordinates.
+
+The value of a coordinate is important.
+
+Equally important is the dimension in which it exists.
+
+---
+
+## Information Theory
+
+A bit stores a value.
+
+Collections of bits create rank.
+
+A byte is not merely:
+
+```text
+8 bits
+```
+
+but a higher organizational level.
+
+---
+
+## Geometry
+
+A square is not:
+
+```text
+two lines
+```
+
+but a new rank of structure.
+
+A cube is not:
+
+```text
+three squares
+```
+
+but another rank.
+
+---
+
+## Complexity Theory
+
+Higher-order systems contain relations between relations.
+
+This is one interpretation of rank growth.
+
+---
+
+# Development Toward LaeChing
+
+Once these symmetries are accepted:
+
+```text
+0 ↔ ∞
+
+internal ↔ external
+
+value ↔ rank
+
+local ↔ global
+
+precision ↔ magnitude
+```
+
+the classical Daoist hierarchy becomes surprisingly natural.
+
+```text
+☯
+↓
+⚊ ⚋
+↓
+⚌ ⚍ ⚎ ⚏
+↓
+☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷
+↓
+䷀ ... ䷿
+↓
+∞
+```
+
+Each level introduces:
+
+```text
+more states
+more relations
+more context
+```
+
+while preserving the same underlying combinatorial symmetry.
+
+---
+
+# Conclusion
+
+The foundational claim of LaeChing is not that the I Ching predicts reality.
+
+The foundational claim is that many traditional and modern systems appear to share a common structural pattern.
+
+That pattern can be written as:
+
+```text
+0 ← 1 → ∞
+```
+
+or:
+
+```text
+0%
+↓
+100%
+↓
+200%
+```
+
+or:
+
+```text
+precision
+↓
+unity
+↓
+context
+```
+
+or:
+
+```text
+inside
+↓
+center
+↓
+outside
+```
+
+Under this view, numbers are no longer merely quantities.
+
+They become coordinates within a recursive hierarchy of ranks.
+
+Geometry, information, logic, symbolic systems, Daoist cosmology, and Laegna notation become different projections of the same underlying question:
+
+> How does a finite distinction generate an infinite world, while remaining connected to both its internal precision and its external context?
+
+The remainder of LaeChing explores that question through the symbolic language of Yin and Yang, the Four Images, the Eight Trigrams, the Sixty-Four Hexagrams, and the Laegna rank-value coordinate system.
+
+---
+
+For article above, the following basics were used and all the parts which came later; here is task by me (previous was this-based article by CoPilot):
+
+Laegna number system is 2D representation of rank and value, octave and frequency:
+- For example, natural numbers enable discrete counting from 1 to infinity; addition is used to form space *upwards* from center.
+- Real numbers answer with precision part: from 1 to zero; division is used to form space *downwards* from center.
+- The interesting values, then, can be 2D counted:
+  - Scalar counting of 2D matrix, such as x cm^2, means both 2 dimensions one can see are multiplied separately with different scalar; only this kind of multiplication yields the linear axe - this is scale. Laegna numbers assume they are inside curved space, here 2 curves it to exponent, and they are part of growth function in that scale; 1/4 normalization and fractal continuation measure the internal and exponential value in perfect symmetry, so that 1 cm^1 and 1 cm^2 values differ - first one is in first part of linear, second one is in first *square* of multilinear growth.
+  - Getting from 1-dimensional continuous number, to 2-dimensional continuous number, introduces exponential rank. If done linearly - multiplying all linear numbers with themselves gives order component not linearly present in it's representation where each number is a point or tesimal; such as line. Line which contains equal number of points with same-sized square has unknown relation to first order of structure. Indeed, from 2-dimensional to 3 to 4 - subsequently, the same relation appears which has unit from first interaction. This infinity or limit is then used in various powers, and plays well in it's local game of math, combinations and movth.
+
+Base-2:
+- Counts ranks where 1 is in the first rank, 4 in second, and 2 and 3 are not normalized.
+
+Base-4:
+- Linearly counts frequencies 1, 2, 3, 4
+
+Base-8:
+- Three bits of the number are typically used as ranks not values.
+
+Base-3:
+- Rank-relations.
+
+Base-16:
+- Each rank of 3 is complexity visible in number values.
+
+The interactions of the systems go on and on:
+- Laegna finite number is symmetric to infinity, or zero.
+
+Space is counted in combinations:
+- Linear is 1D space; symmetric to octave 1 complexity in rank 2 space.
+- Exponential is 2D space; symmetric to octave 2 complexity in rank 2 space.
+
+---
+
+What follows is CoPilot's introduction, development of ideas, making you hungry for ranks and grades, metaphors and shades:
+
 # LaeChing: A Unified Symbolic Mapping System from Dao to Mathematical Space
 
 ## Introduction
