@@ -1,3 +1,7 @@
+![LaeChing](Gfx/LaeChing.png)
+
+<br>
+
 # Foundational Symmetries of LaeChing
 
 ## Introduction
@@ -44,6 +48,10 @@ of what type
 LaeChing treats these as inseparable.
 
 ---
+
+![FoundLaeChing](Gfx/FoundLaeChing.png)
+
+<br>
 
 # The Two Directions of Number
 
@@ -1835,7 +1843,11 @@ This completes the full Unicode hierarchy from the Daoist ☯ symbol through Yin
 
 ---
 
-# I Ching: ChatGPT UTF-8 interpretations
+![LaeChingMiddlings](Gfx/LaeChingMiddlings.png)
+
+<br>
+
+# I Ching: CoPilot's UTF-8 interpretations
 
 What follows is CoPilot's UTF-8 interpretation of I Ching.
 
@@ -2801,6 +2813,10 @@ World
 ---
 
 # Unified UTF-8 Chain
+
+![LaeChingEndings](Gfx/LaeChingEndings.png)
+
+<br>
 
 ```text
 ☯
