@@ -1,3 +1,7 @@
+![CompressionPrinciple](Gfx/CompressionPrinciple.png)
+
+<br>
+
 ## LaeChing Compression Principle
 
 **CoPilot's abstract.**
