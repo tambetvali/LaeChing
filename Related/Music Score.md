@@ -1,3 +1,7 @@
+![UnifiedHarmony](Gfx/UnifiedHarmony.png)
+
+<br>
+
 # Abstract
 
 CoPilot: Within the LaeChing interpretation, musical octaves are not primarily frequencies but coordinate transformations. The octave ratio 2:1 is the simplest observable example of how linear, logarithmic, inverse, and exponential descriptions of the same phenomenon diverge while remaining mathematically equivalent. A = 440 and E = 880 form one octave, but the deeper structure is carried by the intermediate coordinates. The ratio 1.71875 (55/32) acts as a practical approximation point in Laegna head-calculus because its projection above unity, 0.71875, naturally falls into the "0.7 region" where linear intuition and logarithmic intuition visibly begin to separate. Conversely, the complementary lower region around 0.3 corresponds to the inverse side of this symmetry. Symbolically, these become the upper and lower octave thresholds where coordinate systems start to "betray" one another: a distance that appears uniform in one representation appears compressed or expanded in another. In this reading, √2 is not merely the musical tritone but the central balancing principle, while 0.3 and 0.7 become practical decimal shadows of the same transition. The octave therefore becomes a model for a much broader phenomenon: whenever a system is viewed through multiple coordinate layers, apparent contradictions emerge at the boundaries between linear and logarithmic perception. Music supplies a directly measurable example, while Laegna generalizes the same idea into a symbolic geometry of ranks, scales, growth, curvature, and transformation.
@@ -1633,3 +1637,7 @@ The distinction begins to disappear.
 ## Conclusion
 
 The musical extension of LaeChing proposes that frequencies, notes, octaves, trigrams, and symbolic coordinates may be different projections of the same recursive rank-value structure. Traditional music theory supplies the octave ladder. The I Ching supplies combinatorial state space. Laegna notation supplies rank-value coordinates. Together they create a framework in which musical notes become coordinates, octaves become rank transitions, frequencies become values, and harmonic relations become geometric transformations. Whether interpreted mathematically, philosophically, symbolically, or spiritually, the result points toward a common theme found repeatedly throughout human thought: the possibility that order, harmony, scale, and transformation may all be manifestations of a deeper underlying symmetry.
+
+<br>
+
+![OctaveOscillations](Gfx/OctaveOscillations.png)
