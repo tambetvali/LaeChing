@@ -1,3 +1,7 @@
+![LaeChingBeginning](Gfx/LaeChingBeginning.png)
+
+<br>
+
 # LaeChing and Rank-Value Systems
 
 ## Introduction
@@ -435,6 +439,16 @@ simple relations compound into complex worlds.
 
 Understanding those relations may therefore be one of the shortest paths toward understanding the larger systems that emerge from them.
 
+---
+
+My own part.
+
+<br>
+
+![LaeChing1](Gfx/LaeChing1.png)
+
+<br>
+
 # This could be analysis data for decent AI programmer
 
 Possibly I will code critical parts myself and supervise the progress.
@@ -689,6 +703,12 @@ I do not want to mathematically replicate whole intuitive value of I Ching:
 - But to ensure simplest continuous math which has all mathematical relations and precise coordinates of I Ching, gets done.
 
 ---
+
+CoPilot..
+
+![LaeChing2](Gfx/LaeChing2.png)
+
+<br>
 
 # Computational Interpretation
 
@@ -988,3 +1008,7 @@ Whether one interprets the symbols spiritually, psychologically, artistically or
 The primary observation is that 2-state structures generate 8-state structures, which generate 64-state structures.
 
 LaeChing explores whether these same relations can be expressed simultaneously as geometry, algebra, computation and meaning.
+
+<br>
+
+![LaeChingEnding](Gfx/LaeChingEnding.png)
