@@ -144,8 +144,8 @@ I Ching table:
 ## Rank 4: I Ching original names and order
 
 - LaeChing table; binary-simple order:
-  - Add and multiply 4*4 squares.
-    - 💙 Multiply **
+  - Add and multiply 4\*4 squares.
+    - 💙 Multiply ×
       - 🔵 `䷀䷫䷌䷠` 🟢 `䷉䷅䷘䷋` $×EE$ to $×AI$ ***or***: $×C$ to $×H$
         - 🔵 Creative, Coming to Meet, Fellowship, Retreat 🟢 Treading, Conflict, Innocence, Standstill
         - 🔵 1, 44, 13, 33 🟢 10, 6, 25, 12
@@ -183,3 +183,70 @@ I Ching table:
         - 🔴 Peace, Pushing Upward, Darkening of the Light, Modesty 🟡 Approach, Army, Return, Receptive Earth
         - 🔴 11, 46, 36, 15 🟡 19, 7, 24, 2
 
+# Resultative
+
+This is the result:
+- Operators ÷-+× correspond to units: $€^0$, $€^1$, $€^2$, $€^3$ for example, or with powers 1 to 4; or powers 0.5, 1, 1.5 and 2. Choice changes spatial curvature, but not it's projectable topology class. This means they are 3rd-order rank.
+- Hex numbers or two letters in quaternary unit are frequencies of each rank. They are 2nd and 1st order rank, for example frequency and value.
+
+Three bits now directly correspond to ranks and orders:
+
+Earth:
+
+```
+I
+I
+I
+
+I
+I
+I
+```
+
+Earth transposed is then `III III`. Space is boundary of two numbers.
+
+First grouping into two words goes through hilbert's internal-external band division into linear or log 360 degrees or 4 letter degrees first, 360 exponential or 4 exponential for IOAE second. Space is the infinity which makes the limit value in the middle, where radius of circle is straight, infinitely zoomable to new scopes - inside both spaces, the points are much more precisely averages - inside limit values, they are rather wheels which bring new values in. Laegna brings limit value properties systematically into play with number structure.
+
+Second grouping into three ranks both:
+- Is ideal to separate logarithmic, linear and exponential projection of separate dimensions Z, X, Y: using itegral orders from 0 to 2 as linear space, where each number is at point where it becomes linear - fourier composition puts these 3 frequencies into one. Then, 0 to 3 is linearly rescaled to 0 to 1, and time in same units also divided by 3. The resulting curvature is interesting thing I Ching expresses - abstract, ranked systems.
+
+I Ching in Laegna can be used to study correspondencies of these reactions in real systems - whether measured, estimated, or expected and intented, or assumed or supposed. All this can be put into the states.
+
+# Mathematical attraction
+
+One might question the religious value of I Ching and position of religion in the world.
+
+One cannot question this easily:
+- Two-metarank (internal, external), three-scope (quantum, newton, astro), and rank-value conversion (in each rank, single binary value exists).
+- Notice the downway is not necessarily bad and upway good - rather, they interact:
+  - Negative values exist in system where they meet measurement, challenge, or relating your normatives to growing into the future.
+  - Assume system without shadows. Assume one can grow 3 times in 100 years. Decision to do this looks like 3 times shadow, altough it really is 3 times growth.
+  - Assume one combines combinations for reality: reality *always* has shadows, but one finds linear ways up; real-world combinations appear only if shadows are estimated in worth of half.
+
+# Mathematical relations
+
+Rank dimensional system: Z=1, X=2, Y=3.
+
+Highest value of rank 3, highest rank Y, is exact exponent symmetry and leads one point upwards.
+- When situation changes by YE, whole reality is elevated to next rank of 64-system, and function takes directly up; in next moment, old values would point directly down.
+
+Lowest value of rank 1, lowest rank Z, is exact logarithm:
+- When situation changes by ZI, it's symbolic value, whole reality moves downwards *and coordinate system shifts to point downwards*.
+
+This upward-downward movement is octave and not value-frequency symmetric: rank and not value, quality and not quantity.
+
+# Real I Ching order
+
+Is fractal:
+- Opposition of Heaven and Earth are first two.
+- Next ones are next-level combinations.
+- Later come more subtle ones.
+
+We use:
+- Direct, number based combinations.
+
+One can mathematically see how to form more I Ching like arrangements:
+- Put most different first, less different next, and subtly different to last positions.
+
+I do not want to mathematically replicate whole intuitive value of I Ching:
+- But to ensure simplest continuous math which has all mathematical relations and precise coordinates of I Ching, gets done.
